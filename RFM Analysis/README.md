@@ -17,3 +17,4 @@ Data Source for the project is publicly available E-commerce database that lists
 Python Notebook:
 
 RFMAnalysis - Contains the initial exploration of data like finding the distribution of target variables, missing values, correlated variables, distribution of categorical variables with target variable, etc.
+I have explored 2 methods for creating the segments - 1) Quantiles and 2) K-Means clustering.
